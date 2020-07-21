@@ -1,2 +1,2 @@
 # LangTagger
-Language Detector
+Language Tagger
