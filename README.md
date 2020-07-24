@@ -39,6 +39,7 @@ and French language for the test.
 
 ## Evaluation
 
+
 #### Results  achieved  by  different  approaches  on  all  languages  of  QALD  testbenchmark in Full (F) and Keyword (K) questions
 <table>
   <thead>
@@ -131,8 +132,9 @@ and French language for the test.
   </tbody>
 </table>
 
-#### Results achieved by different approaches on English questions of QALD testbenchmark.
 
+
+#### Results achieved by different approaches on English questions of QALD testbenchmark.
 <table>
   <thead>
   <tr>
@@ -224,4 +226,149 @@ and French language for the test.
   </tbody>
 </table>
 
+#### Results achieved by different approaches on German questions of QALD testbenchmark
+
+<table>
+  <thead>
+  <tr>
+    <th>QALD</th>
+    <th colspan="2">3</th>
+    <th colspan="2">4</th>
+    <th colspan="2">5</th>
+    <th colspan="2">6</th>
+    <th colspan="2">7</th>
+    <th colspan="2">9</th>
+  </tr>
+  <tr >
+    <td>Questions</td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+   </tr>
+  </thead>>
+  <tbody>
+  <tr>
+	<td ><b>LangTag(S)</b></td>
+    <td >0.87</td><td >1.00</td>
+    <td >0.88</td><td >1.00</td>
+    <td >0.93</td><td >1.00</td>
+    <td >0.86</td><td >0.99</td>
+    <td >0.90</td><td >1.00</td>
+    <td >0.88</td><td >1.00</td>
+  </tr>
+  <tr>
+	<td ><b>LangTag(C)</b></td>
+    <td >0.80</td><td >1.00</td>
+    <td >0.88</td><td >1.00</td>
+    <td >0.93</td><td >1.00</td>
+    <td >0.86</td><td >0.99</td>
+    <td >0.90</td><td >1.00</td>
+    <td >0.88</td><td >1.00</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect</b></td>
+    <td >0.80</td><td >0.95</td>
+    <td >0.80</td><td >0.92</td>
+    <td >0.77</td><td >0.91</td>
+    <td >0.71</td><td >0.88</td>
+    <td >0.74</td><td >0.95</td>
+    <td >0.81</td><td >0.94</td>
+  </tr>
+  <tr>
+	<td ><b>Tika</b></td>
+    <td >0.79</td><td >0.95</td>
+    <td >0.78</td><td >0.92</td>
+    <td >0.79</td><td >0.94</td>
+    <td >0.71</td><td >0.88</td>
+    <td >0.69</td><td >0.95</td>
+    <td >0.81</td><td >0.94</td>
+  </tr>
+  <tr>
+	<td ><b>openNLP</b></td>
+    <td >0.42</td><td >0.88</td>
+    <td >0.54</td><td >0.80</td>
+    <td >0.59</td><td >0.81</td>
+    <td >0.39</td><td >0.74</td>
+    <td >0.48</td><td >0.79</td>
+    <td >0.48</td><td >0.82</td>
+  </tr>
+  </tbody>
+</table>
+
+#### Results achieved by different approaches on French questions of QALD testbenchmark
+
+<table>
+  <thead>
+  <tr>
+    <th>QALD</th>
+    <th colspan="2">3</th>
+    <th colspan="2">4</th>
+    <th colspan="2">5</th>
+    <th colspan="2">6</th>
+    <th colspan="2">7</th>
+    <th colspan="2">8</th>
+    <th colspan="2">9</th>
+  </tr>
+  <tr >
+    <td>Questions</td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+   </tr>
+  </thead>>
+  <tbody>
+  <tr>
+	<td ><b>LangTag(S)</b></td>
+    <td >0.72</td><td >0.98</td>
+    <td >0.72</td><td >1.00</td>
+    <td >0.79</td><td >1.00</td>
+    <td >0.74</td><td >0.99</td>
+    <td >0.62</td><td >0.97</td>
+    <td >0.66</td><td >0.99</td>
+  </tr>
+  <tr>
+	<td ><b>LangTag(C)</b></td>
+    <td >0.88</td><td >1.00</td>
+    <td >0.84</td><td >1.00</td>
+    <td >0.93</td><td >1.00</td>
+    <td >0.78</td><td >0.99</td>
+    <td >0.90</td><td >1.00</td>
+    <td >0.80</td><td >0.99</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect</b></td>
+    <td >0.61</td><td >0.90</td>
+    <td >0.84</td><td >0.98</td>
+    <td >0.86</td><td >0.96</td>
+    <td >0.69</td><td >0.92</td>
+    <td >0.88</td><td >1.00</td>
+    <td >0.77</td><td >0.94</td>
+  </tr>
+  <tr>
+	<td ><b>Tika</b></td>
+    <td >0.61</td><td >0.89</td>
+    <td >0.76</td><td >0.98</td>
+    <td >0.79</td><td >0.93</td>
+    <td >0.65</td><td >0.93</td>
+    <td >0.79</td><td >1.00</td>
+    <td >0.73</td><td >0.96</td>
+  </tr>
+  <tr>
+	<td ><b>openNLP</b></td>
+    <td >0.51</td><td >0.86</td>
+    <td >0.62</td><td >0.90</td>
+    <td >0.58</td><td >0.80</td>
+    <td >0.59</td><td >0.82</td>
+    <td >0.65</td><td >0.90</td>
+    <td >0.62</td><td >0.82</td>
+  </tr>
+  </tbody>
+</table>
 
