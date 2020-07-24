@@ -1,0 +1,198 @@
+eng	Which German cities have more than 250000 inhabitants?
+
+eng	Who was the successor of John F. Kennedy?
+
+eng	Who is the mayor of Berlin?
+
+eng	How many students does the Free University in Amsterdam have?
+
+eng	What is the second highest mountain on Earth?
+
+eng	Give me all professional skateboarders from Sweden.
+
+eng	When was Alberta admitted as province?
+
+eng	To which countries does the Himalayan mountain system extend?
+
+eng	Give me a list of all trumpet players that were bandleaders.
+
+eng	What is the total amount of men and women serving in the FDNY?
+
+eng	Who is the Formula 1 race driver with the most races?
+
+eng	Give me all world heritage sites designated within the past five years.
+
+eng	Who is the youngest player in the Premier League?
+
+eng	Give me all members of Prodigy.
+
+eng	What is the longest river?
+
+eng	Does the new Battlestar Galactica series have more episodes than the old one?
+
+eng	Give me all cars that are produced in Germany.
+
+eng	Give me all people that were born in Vienna and died in Berlin.
+
+eng	How tall is Michael Jordan?
+
+eng	What is the capital of Canada?
+
+eng	Who is the governor of Texas?
+
+eng	Do Harry and William, Princes of Wales, have the same mother?
+
+eng	Who was the father of Queen Elizabeth II?
+
+eng	Which U.S. state has been admitted latest?
+
+eng	How many official languages are spoken on the Seychelles?
+
+eng	Sean Parnell is the governor of which U.S. state?
+
+eng	Give me all movies directed by Francis Ford Coppola.
+
+eng	Give me all actors starring in movies directed by and starring William Shatner.
+
+eng	What is the birth name of Angela Merkel?
+
+eng	Give me all current Methodist national leaders.
+
+eng	How often did Nicole Kidman marry?
+
+eng	Give me all Australian nonprofit organizations.
+
+eng	In which military conflicts did Lawrence of Arabia participate?
+
+eng	Who developed Skype?
+
+eng	What is the melting point of copper?
+
+eng	Give me all sister cities of Brno.
+
+eng	How many inhabitants does Maribor have?
+
+eng	Give me all companies in Munich.
+
+fry	List all boardgames by GMT.
+
+eng	Who founded Intel?
+
+eng	Who is the husband of Amanda Palmer?
+
+eng	Give me all breeds of the German Shepherd dog.
+
+eng	Which cities does the Weser flow through?
+
+eng	Which countries are connected by the Rhine?
+
+eng	Which professional surfers were born on the Philippines?
+
+eng	What is the average temperature on Hawaii?
+
+eng	In which UK city are the headquarters of the MI6?
+
+eng	Which other weapons did the designer of the Uzi develop?
+
+eng	Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?
+
+eng	Give me all Frisian islands that belong to the Netherlands.
+
+eng	Who invented the zipper?
+
+eng	What is the ruling party in Lisbon?
+
+eng	What are the nicknames of San Francisco?
+
+eng	Which Greek goddesses dwelt on Mount Olympus?
+
+eng	When were the Hells Angels founded?
+
+eng	Give me the Apollo 14 astronauts.
+
+eng	What is the time zone of Salt Lake City?
+
+eng	Which U.S. states are in the same timezone as Utah?
+
+eng	Give me a list of all lakes in Denmark.
+
+eng	How many space missions have there been?
+
+eng	Did Socrates influence Aristotle?
+
+eng	Give me all Argentine films.
+
+eng	Give me all launch pads operated by NASA.
+
+eng	Which instruments did John Lennon play?
+
+eng	Which ships were called after Benjamin Franklin?
+
+eng	Who are the parents of the wife of Juan Carlos I?
+
+eng	How many employees does Google have?
+
+eng	Did Tesla win a nobel prize in physics?
+
+eng	Is Michelle Obama the wife of Barack Obama?
+
+eng	When was the Statue of Liberty built?
+
+eng	In which U.S. state is Area 51 located?
+
+eng	How many children did Benjamin Franklin have?
+
+eng	When did Michael Jackson die?
+
+eng	Which daughters of British earls died in the same place they were born in?
+
+eng	List the children of Margaret Thatcher.
+
+eng	Who was called Scarface?
+
+eng	Was Margaret Thatcher a chemist?
+
+deu	Was Dutch Schultz a jew?
+
+eng	Give me all books by William Goldman with more than 300 pages.
+
+eng	Which books by Kerouac were published by Viking Press?
+
+eng	Give me a list of all American inventions.
+
+eng	How high is the Mount Everest?
+
+eng	Who created the comic Captain America?
+
+eng	How many people live in the capital of Australia?
+
+eng	What is the largest city in Australia?
+
+eng	Who composed the music for Harold and Maude?
+
+eng	Which films starring Clint Eastwood did he direct himself?
+
+eng	In which city was the former Dutch queen Juliana buried?
+
+eng	Where is the residence of the prime minister of Spain?
+
+eng	Which U.S. State has the abbreviation MN?
+
+eng	Show me all songs from Bruce Springsteen released between 1980 and 1990.
+
+eng	Which movies did Sam Raimi direct after Army of Darkness?
+
+eng	What is the founding year of the brewery that produces Pilsner Urquell?
+
+eng	Who wrote the lyrics for the Polish national anthem?
+
+eng	Give me all B-sides of the Ramones. 
+
+eng	Who painted The Storm on the Sea of Galilee?
+
+eng	Which country does the creator of Miffy come from?
+
+eng	For which label did Elvis record his first album?
+
+eng	Who produces Orangina?
+
