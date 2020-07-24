@@ -1,6 +1,6 @@
 # LangTagger
 
-LangTagger is a Language Detector that uses a probabilistic model for language classification.
+LangTagger is a Language Tagger that uses a probabilistic model for language classification.
 The LangTagger consists of two models, which are LangTag(S) the simple model and LangTag(C) the 
 combined model. LangTag(S) is  trained using only QALD 7 training dataset. Therefore it supports
 the languages English, Deutsch, French, Spanish, Brazilian Portuguese, Dutch, Hindi, Romanian 
