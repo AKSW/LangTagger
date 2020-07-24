@@ -43,7 +43,8 @@ and French language for the test.
   <thead>
   <tr>
     <th>QALD</th>
-    <th colspan="2">2</th>
+    <th colspan="1">1</th>
+    <th colspan="1">2</th>
     <th colspan="2">3</th>
     <th colspan="2">4</th>
     <th colspan="2">5</th>
@@ -54,7 +55,11 @@ and French language for the test.
   </tr>
   <tr >
     <td>Questions</td>
-    <td markdown="span"><b>K</b></td><td ><b>F</b></td>
+    <td ><b>F</b></td>
+    <td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
     <td ><b>K</b></td><td ><b>F</b></td>
     <td ><b>K</b></td><td ><b>F</b></td>
     <td ><b>K</b></td><td ><b>F</b></td>
