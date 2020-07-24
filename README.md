@@ -618,3 +618,43 @@ and French language for the test.
   </tr>
   </tbody>
 </table>
+
+
+#### model  size  in  Megabytes  (MB)  andKilobytes (KB) achieved by different approaches on QALD test benchmarks.
+
+<table>
+  <thead>
+  <tr>
+    <th>Approach</th>
+    <th colspan="1">Model Size</th>
+    <th colspan="1">#Languages</th>
+  </tr>
+  </thead>>
+  <tbody>
+  <tr>
+	<td ><b>LangTag(S)</b></td>
+    <td >8.2 KB</td>
+    <td >10</td>
+  </tr>
+  <tr>
+	<td ><b>LangTag(C)</b></td>
+    <td >9.7 KB</td>
+    <td >12</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect</b></td>
+    <td >981.5 KB</td>
+    <td >55</td>
+  </tr>
+  <tr>
+	<td ><b>Tika</b></td>
+    <td >74.9 MB</td>
+    <td >18</td>
+  </tr>
+  <tr>
+    <td ><b>openNLP</b></td>
+    <td >10.6 MB</td>
+    <td >103</td>
+  </tr>
+  </tbody>
+</table>
