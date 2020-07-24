@@ -66,6 +66,68 @@ and French language for the test.
     <td ><b>K</b></td><td ><b>F</b></td>
    </tr>
   </thead>>
+  <tbody>
+  <tr>
+	<td ><b>LangTag(S)</b></td>
+	<td >1.0</td>
+    <td >1.0</td>
+    <td >0.70</td><td >0.99</td>
+    <td >0.77</td><td >0.99</td>
+    <td >0.77</td><td >1.00</td>
+    <td >0.76</td><td >0.99</td>
+    <td >0.67</td><td >0.98</td>
+    <td >0.48</td><td >1.00</td>
+    <td >0.70</td><td >0.97</td>
+  </tr>
+  <tr>
+	<td ><b>LangTag(C)</b></td>
+	<td >1.0</td>
+    <td >1.0</td>
+    <td >0.86</td><td >0.99</td>
+    <td >0.90</td><td >0.99</td>
+    <td >0.92</td><td >1.00</td>
+    <td >0.81</td><td >0.99</td>
+    <td >0.93</td><td >1.00</td>
+    <td >0.70</td><td >1.00</td>
+    <td >0.84</td><td >0.97</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect</b></td>
+	<td >0.96</td>
+    <td >0.96</td>
+    <td >0.65</td><td >0.93</td>
+    <td >0.76</td><td >0.92</td>
+    <td >0.72</td><td >0.92</td>
+    <td >0.68</td><td >0.91</td>
+    <td >0.76</td><td >0.95</td>
+    <td >0.51</td><td >1.00</td>
+    <td >0.65</td><td >0.82</td>
+  </tr>
+  <tr>
+	<td ><b>Tika</b></td>
+	<td >0.96</td>
+    <td >0.93</td>
+    <td >0.61</td><td >0.88</td>
+    <td >0.70</td><td >0.90</td>
+    <td >0.66</td><td >0.91</td>
+    <td >0.63</td><td >0.89</td>
+    <td >0.72</td><td >0.91</td>
+    <td >0.56</td><td >0.97</td>
+    <td >0.61</td><td >0.80</td>
+  </tr>
+  <tr>
+	<td ><b>openNLP</b></td>
+	<td >0.96</td>
+    <td >0.97</td>
+    <td >0.48</td><td >0.89</td>
+    <td >0.62</td><td >0.89</td>
+    <td >0.61</td><td >0.85</td>
+    <td >0.48</td><td >0.75</td>
+    <td >0.62</td><td >0.90</td>
+    <td >0.39</td><td >0.95</td>
+    <td >0.41</td><td >0.73</td>
+  </tr>
+  </tbody>
 </table>
 
 
