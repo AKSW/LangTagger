@@ -372,3 +372,87 @@ and French language for the test.
   </tbody>
 </table>
 
+#### Results achieved by different approaches on Entityrdfs:labels
+
+<table>
+  <thead>
+  <tr>
+    <th>Approach</th>
+    <th colspan="1">EN</th>
+    <th colspan="1">DE</th>
+    <th colspan="1">RU</th>
+    <th colspan="1">IT</th>
+    <th colspan="1">ES</th>
+    <th colspan="1">FR</th>
+    <th colspan="1">PT</th>
+    <th colspan="2">AVG</th>
+  </tr>
+  <tr >
+    <td>#Resources</td>
+    <td >10,000</td>
+    <td >10,000</td>
+    <td >83</td>
+    <td >243</td>
+    <td >10,000</td>
+    <td >782</td>
+    <td >227</td>
+    <td >Accuracy</td><td >Runtime(s)</td>
+   </tr>
+  </thead>>
+  <tbody>
+  <tr>
+	<td ><b>LangTag(S)</b></td>
+    <td >0.21</td>
+    <td >0.91</td>
+    <td >-</td>
+    <td >0.25</td>
+    <td >0.09</td>
+    <td >0.34</td>
+    <td >0.36</td>
+    <td >0.36</td><td >0.00162</td>
+  </tr>
+  <tr>
+	<td ><b>LangTag(C)</b></td>
+    <td >0.26</td>
+    <td >0.88</td>
+    <td >0.12</td>
+    <td >0.35</td>
+    <td >0.15</td>
+    <td >0.36</td>
+    <td >0.44</td>
+    <td >0.34</td><td >0.00186</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect</b></td>
+    <td >0.40</td>
+    <td >0.43</td>
+    <td >0.57</td>
+    <td >0.63</td>
+    <td >0.31</td>
+    <td >0.59</td>
+    <td >0.43</td>
+    <td >0.48</td><td >0.01761</td>
+  </tr>
+  <tr>
+	<td ><b>Tika</b></td>
+    <td >0.24</td>
+    <td >0.39</td>
+    <td >50</td>
+    <td >0.68</td>
+    <td >0.15</td>
+    <td >0.59</td>
+    <td >0.35</td>
+    <td >0.41</td><td >0.41428</td>
+  </tr>
+  <tr>
+    <td >0.16</td>
+    <td >0.18</td>
+    <td >0.12</td>
+    <td >0.30</td>
+    <td >0.15</td>
+    <td >0.33</td>
+    <td >0.25</td>
+    <td >0.21</td><td >0.01125</td>
+  </tr>
+  </tbody>
+</table>
