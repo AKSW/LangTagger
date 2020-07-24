@@ -538,3 +538,83 @@ and French language for the test.
   </tr>
   </tbody>
 </table>
+
+#### Average runtime in seconds(s) different approaches on on QALD test bench-marks.
+
+
+<table>
+  <thead>
+  <tr>
+    <th>QALD</th>
+    <th colspan="2">3</th>
+    <th colspan="2">4</th>
+    <th colspan="2">5</th>
+    <th colspan="2">6</th>
+    <th colspan="2">7</th>
+    <th colspan="2">8</th>
+    <th colspan="2">9</th>
+  </tr>
+  <tr >
+    <td>Questions</td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+    <td ><b>K</b></td><td ><b>F</b></td>
+   </tr>
+  </thead>>
+  <tbody>
+  <tr>
+	<td ><b>LangTag(S)</b></td>
+    <td >0.0003</td><td >0.0003</td>
+    <td >0.0006</td><td >0.0003</td>
+    <td >0.0006</td><td >0.0003</td>
+    <td >0.0002</td><td >0.0002</td>
+    <td >0.0019</td><td >0.0004</td>
+    <td >0.0041</td><td >0.0014</td>
+    <td >0.0001</td><td >0.0002</td>
+  </tr>
+  <tr>
+	<td ><b>LangTag(C)</b></td>
+    <td >0.0018</td><td >0.0012</td>
+    <td >0.0026</td><td >0.0021</td>
+    <td >0.0029</td><td >0.0022</td>
+    <td >0.0017</td><td >0.0011</td>
+    <td >0.0036</td><td >0.0031</td>
+    <td >0.0131</td><td >0.0120</td>
+    <td >0.0017</td><td >0.0012</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect</b></td>
+    <td >0.0087</td><td >0.0063</td>
+    <td >0.0079</td><td >0.0042</td>
+    <td >0.0072</td><td >0.0057</td>
+    <td >0.0078</td><td >0.0054</td>
+    <td >0.0082</td><td >0.0041</td>
+    <td >0.0092</td><td >0.0021</td>
+    <td >0.0075</td><td >0.0116</td>
+  </tr>
+  <tr>
+	<td ><b>Tika</b></td>
+    <td >1.5677</td><td >1.4068</td>
+    <td >1.4021</td><td >1.4009</td>
+    <td >1.6072</td><td >1.3928</td>
+    <td >1.5981</td><td >1.3978</td>
+    <td >1.4379</td><td >1.3955</td>
+    <td >1.4213</td><td >1.3778</td>
+    <td >1.9081</td><td >1.4836</td>
+  </tr>
+  <tr>
+	<td ><b>openNLP</b></td>
+    <td >0.0027</td><td >0.0011</td>
+    <td >0.0036</td><td >0.0039</td>
+    <td >0.0035</td><td >0.0030</td>
+    <td >0.0023</td><td >0.0011</td>
+    <td >0.0058</td><td >0.0062</td>
+    <td >0.0032</td><td >0.0026</td>
+    <td >0.0012</td><td >0.0014</td>
+  </tr>
+  </tbody>
+</table>
