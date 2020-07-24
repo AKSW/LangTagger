@@ -372,7 +372,7 @@ and French language for the test.
   </tbody>
 </table>
 
-#### Results achieved by different approaches on Entityrdfs:labels
+#### Results achieved by different approaches on Entity rdfs:labels
 
 <table>
   <thead>
@@ -445,6 +445,7 @@ and French language for the test.
     <td >0.41</td><td >0.41428</td>
   </tr>
   <tr>
+    <td ><b>openNLP</b></td>
     <td >0.16</td>
     <td >0.18</td>
     <td >0.12</td>
@@ -453,6 +454,87 @@ and French language for the test.
     <td >0.33</td>
     <td >0.25</td>
     <td >0.21</td><td >0.01125</td>
+  </tr>
+  </tbody>
+</table>
+
+
+#### Results achieved by different approaches on Abstracts
+
+<table>
+  <thead>
+  <tr>
+    <th>Approach</th>
+    <th colspan="1">EN</th>
+    <th colspan="1">DE</th>
+    <th colspan="1">RU</th>
+    <th colspan="1">IT</th>
+    <th colspan="1">ES</th>
+    <th colspan="1">FR</th>
+    <th colspan="2">AVG</th>
+  </tr>
+  <tr >
+    <td>#Resources</td>
+    <td >10,000</td>
+    <td >10,000</td>
+    <td >285</td>
+    <td >10,000</td>
+    <td >10,000</td>
+    <td >10,000</td>
+    <td >Accuracy</td><td >Runtime(s)</td>
+   </tr>
+  </thead>>
+  <tbody>
+  <tr>
+	<td ><b>LangTag(S)</b></td>
+    <td >0.96</td>
+    <td >0.99</td>
+    <td >-</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.98</td><td >0.00267</td>
+  </tr>
+  <tr>
+	<td ><b>LangTag(C)</b></td>
+    <td >0.96</td>
+    <td >0.99</td>
+    <td >0.86</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.96</td><td >0.00287</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect</b></td>
+    <td >0.95</td>
+    <td >0.99</td>
+    <td >0.95</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.97</td><td >0.01657</td>
+  </tr>
+  <tr>
+	<td ><b>Tika</b></td>
+    <td >0.95</td>
+    <td >0.99</td>
+    <td >0.95</td>
+    <td >0.99</td>
+    <td >0.98</td>
+    <td >0.98</td>
+    <td >0.99</td>
+    <td >0.97</td><td >0.43918</td>
+  </tr>
+  <tr>
+    <td ><b>openNLP</b></td>
+    <td >0.79</td>
+    <td >0.81</td>
+    <td >0.13</td>
+    <td >0.76</td>
+    <td >0.78</td>
+    <td >0.71</td>
+    <td >0.66</td><td >0.01427</td>
   </tr>
   </tbody>
 </table>
