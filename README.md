@@ -141,6 +141,19 @@ and French language for the test.
     <td >0.56</td><td >1.00</td>
     <td >0.81</td><td >0.95</td>
   </tr>
+    
+   <tr>
+	<td ><b>langdetect(12)</b></td>
+	<td >0.96</td>
+    <td >0.93</td>
+    <td >0.67</td><td >0.90</td>
+    <td >0.76</td><td >0.91</td>
+    <td >0.72</td><td >0.91</td>
+    <td >0.69</td><td >0.89</td>
+    <td >0.75</td><td >0.92</td>
+    <td >0.58</td><td >1.00</td>
+    <td >0.66</td><td >0.82</td>
+  </tr>
   </tbody>
 </table>
 
