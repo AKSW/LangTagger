@@ -3,29 +3,46 @@ Ancienne province,fr
 Ancienne région,fr
 Avocat,fr
 Base de données,fr
+Base de données,fr
+Base de données biologiques,fr
 Base de données biologiques,fr
 Blason,fr
 Capitale,fr
+Capitale,fr
 Capitale régionale,fr
 Château d'eau,fr
+Château d'eau,fr
+DCI,fr
 DCI,fr
 Dramaturge,fr
+Dramaturge,fr
+Désert,fr
 Désert,fr
 Embranchement phylogénétique,fr
 Employeur,fr
 FC,fr
+FC,fr
+Hymne national,fr
 Hymne national,fr
 ID Allocine,fr
 Inconnu,fr
+Inconnu,fr
 Jeux Olympiques,fr
+Moulin,fr
 Moulin,fr
 Moulin à eau,fr
 Océan,fr
+Océan,fr
+Orgue,fr
 Orgue,fr
 Port,fr
+Port,fr
+Prix Nobel,fr
 Prix Nobel,fr
 Producteur,fr
 PubChem,fr
+PubChem,fr
+Pyramide,fr
 Pyramide,fr
 Tournoi de la Women's Tennis Association,fr
 a influencé,fr
@@ -34,8 +51,10 @@ a un lieu intérieur,fr
 abbaye,fr
 abréviation,fr
 acteur,fr
+acteur,fr
 acteur de doublage,fr
 acteur porno/acteur adulte,fr
+activité,fr
 activité,fr
 activité de route,fr
 adresse,fr
@@ -48,6 +67,7 @@ algue verte,fr
 alias,fr
 allumeur,fr
 altitude,fr
+altitude,fr
 altitude (μ),fr
 ambassadeur,fr
 american football league,fr
@@ -58,7 +78,9 @@ ancien ville ou village,fr
 ancienne chaîne de télévision généraliste,fr
 angiospermes,fr
 animal,fr
+animal,fr
 animateur de télévision,fr
+année,fr
 année,fr
 année d'obtention du titre de champion du monde,fr
 année de recensement,fr
@@ -70,10 +92,13 @@ arachnides,fr
 arbitre,fr
 archipel,fr
 architecte,fr
+architecte,fr
 archées,fr
 archéologue,fr
 aristocrate,fr
 arme,fr
+arrondissement,fr
+arrondissement,fr
 arrondissement,fr
 arrêt précédent,fr
 arrêt suivant,fr
@@ -113,6 +138,7 @@ bâtiment historique,fr
 canadian football league,fr
 canal,fr
 canton,fr
+canton,fr
 capacité,fr
 capitale,fr
 carburant,fr
@@ -144,6 +170,7 @@ chanteur,fr
 chat,fr
 chaîne de montagne,fr
 chaîne de télévision généraliste,fr
+chaîne de télévision généraliste,fr
 chaînes de télévision,fr
 chef,fr
 chef cuisinier,fr
@@ -152,6 +179,7 @@ cheval,fr
 chien,fr
 chiffre d'affaire ($),fr
 château,fr
+cimetière,fr
 cimetière,fr
 circuit,fr
 circuit de course,fr
@@ -165,9 +193,11 @@ collection d'objets,fr
 combattant,fr
 communauté,fr
 commune,fr
+commune,fr
 commune historique,fr
 compagnie aérienne,fr
 competition,fr
+compositeur,fr
 compositeur,fr
 composition de musique classique,fr
 compétences,fr
@@ -183,6 +213,7 @@ connu pour,fr
 constellation,fr
 continent,fr
 corps celeste,fr
+couleur,fr
 couleur,fr
 course,fr
 course de chevaux,fr
@@ -207,10 +238,21 @@ date de fermeture,fr
 date de fin,fr
 date de naissance,fr
 densité (μ3),fr
+densité (μ3),fr
+densité (μ3),fr
+densité (μ3),fr
 dessin animé,fr
+devise,fr
+devise,fr
 devise,fr
 diamètre (km),fr
 diamètre (mm),fr
+diamètre (mm),fr
+diamètre (μ),fr
+diamètre (μ),fr
+diamètre (μ),fr
+diamètre (μ),fr
+diamètre (μ),fr
 diamètre (μ),fr
 diffuseur,fr
 diocèse,fr
@@ -235,6 +277,7 @@ définition,fr
 démographie,fr
 démonyme,fr
 département,fr
+département,fr
 département outre mer,fr
 député,fr
 développeur,fr
@@ -244,6 +287,7 @@ empereur romain,fr
 emplacement,fr
 enregistré à,fr
 entraîneur,fr
+entraîneur,fr
 entraîneur de football,fr
 entraîneur universitaire,fr
 entreprise,fr
@@ -252,11 +296,13 @@ est un arrêt,fr
 eucaryote,fr
 fait partie de,fr
 famille,fr
+famille,fr
 fermier,fr
 festival de musique,fr
 festival du film,fr
 fichier,fr
 filiale,fr
+film,fr
 film,fr
 fonction de personne,fr
 fonction politique,fr
@@ -272,7 +318,9 @@ fréquence (Hz),fr
 fungi,fr
 fuseau horaire,fr
 fusée,fr
+fusée,fr
 galaxie,fr
+gare,fr
 gare,fr
 genre,fr
 genre (biologie),fr
@@ -284,6 +332,7 @@ glacier,fr
 gnétophytes,fr
 golfeur,fr
 gouvernement,fr
+gouverneur,fr
 gouverneur,fr
 grand prix,fr
 gratte-ciel,fr
@@ -299,6 +348,12 @@ géologie,fr
 haute école,fr
 hauteur (cm),fr
 hauteur (mm),fr
+hauteur (mm),fr
+hauteur (mm),fr
+hauteur (mm),fr
+hauteur (mm),fr
+hauteur (mm),fr
+hauteur (mm),fr
 hauteur (μ),fr
 historien,fr
 humoriste,fr
@@ -307,6 +362,7 @@ hôtel,fr
 identifiant BIBSYS,fr
 idéologie,fr
 illustrateur,fr
+image,fr
 image,fr
 image fixe,fr
 indicatif régional,fr
@@ -348,6 +404,7 @@ journaliste,fr
 juge,fr
 la ligue de course automobile,fr
 label discographique,fr
+label discographique,fr
 lac,fr
 langage,fr
 langage de programmation,fr
@@ -357,6 +414,7 @@ lecteur du serment olympique,fr
 lettre,fr
 levée,fr
 licence,fr
+lieu,fr
 lieu,fr
 lieu au nord,fr
 lieu au nord-est,fr
@@ -371,6 +429,7 @@ lieu le plus bas,fr
 lieu naturel,fr
 lieu à l'est,fr
 lieu à l'ouest,fr
+lieutenant,fr
 lieutenant,fr
 ligne,fr
 ligue d'arts martiaux mixtes,fr
@@ -409,6 +468,12 @@ logiciel,fr
 loi,fr
 longueur (km),fr
 longueur (mm),fr
+longueur (mm),fr
+longueur (mm),fr
+longueur (mm),fr
+longueur (mm),fr
+longueur (mm),fr
+longueur (mm),fr
 longueur (μ),fr
 longueur d'onde (μ),fr
 lutteur,fr
@@ -416,6 +481,7 @@ lycopodiopsida,fr
 lymphe,fr
 magazine,fr
 magnitude absolue,fr
+maire,fr
 maire,fr
 maladie,fr
 mammifère,fr
@@ -520,6 +586,7 @@ pasteur,fr
 patineur artistique,fr
 patriarche chrétien,fr
 pays,fr
+pays,fr
 peintre,fr
 peinture,fr
 personnage de bandes dessinées,fr
@@ -540,8 +607,19 @@ planète,fr
 playmate pour Playboy,fr
 poids (g),fr
 poids (kg),fr
+poids (kg),fr
+poids (kg),fr
+poids (kg),fr
+poids (kg),fr
+poids (kg),fr
+poids (kg),fr
+poids (kg),fr
+point d'ébullition (K),fr
+point d'ébullition (K),fr
 point d'ébullition (K),fr
 point de départ,fr
+point de fusion (K),fr
+point de fusion (K),fr
 point de fusion (K),fr
 poisson,fr
 politicien,fr
@@ -576,6 +654,8 @@ préfix ATC,fr
 prénom,fr
 présentateur,fr
 président,fr
+président,fr
+président,fr
 prêtre,fr
 publication périodique,fr
 période,fr
@@ -590,6 +670,7 @@ religion,fr
 reptile,fr
 restaurant,fr
 rivière,fr
+rivière,fr
 roman,fr
 route,fr
 royauté,fr
@@ -599,6 +680,7 @@ règne (biologie),fr
 réalisateur,fr
 réalisateur de film,fr
 réalisateur de télévision,fr
+récompense,fr
 récompense,fr
 régime de classification,fr
 régime de droit,fr
@@ -635,6 +717,7 @@ siège,fr
 skieur,fr
 spectacle,fr
 sport,fr
+sport,fr
 stade,fr
 station de métro,fr
 station de radio,fr
@@ -652,6 +735,8 @@ suffix ATC,fr
 suivi par,fr
 sujet académique,fr
 superficie (km2),fr
+superficie (km2),fr
+superficie (m2),fr
 superficie (m2),fr
 synagogue,fr
 syndicat de patrons,fr
@@ -662,6 +747,8 @@ taille de fichier (MB),fr
 taille de l'image (px),fr
 taxe,fr
 temple,fr
+température (K),fr
+température (K),fr
 température (K),fr
 territoire,fr
 théâtre,fr
@@ -683,6 +770,7 @@ type de surface (tennis),fr
 téléphone mobile,fr
 unité militaire,fr
 université,fr
+université,fr
 usage actuel,fr
 usage initial,fr
 usine,fr
@@ -691,10 +779,14 @@ valeur,fr
 vallée,fr
 veine,fr
 vente,fr
+vente,fr
 vice premier ministre,fr
 vice président,fr
 vient après,fr
 village,fr
+ville,fr
+ville,fr
+ville,fr
 ville,fr
 ville dirigeante,fr
 vin,fr
@@ -702,6 +794,9 @@ vin A.O.C.,fr
 vodka,fr
 volcan,fr
 volume (km3),fr
+volume (km3),fr
+volume (μ³),fr
+volume (μ³),fr
 volume (μ³),fr
 véhicule spatial,fr
 zone peuplée,fr
@@ -710,6 +805,7 @@ athlète de la national collegiate athletic association,fr
 à côté de,fr
 éclipse de soleil,fr
 écluse,fr
+école,fr
 école,fr
 économiste,fr
 écrivain,fr
@@ -727,6 +823,7 @@ athlète de la national collegiate athletic association,fr
 équipe,fr
 équipe américaine de football américain,fr
 équipe canadienne de football américain,fr
+équipe de basket-ball,fr
 équipe de basket-ball,fr
 équipe de handball,fr
 équipe de hockey,fr

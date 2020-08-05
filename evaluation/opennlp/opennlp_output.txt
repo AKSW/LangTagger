@@ -1,198 +1,496 @@
-eng	Which German cities have more than 250000 inhabitants?
+por	categoria do indice de desenvolvimento humano (IDH)
 
-eng	Who was the successor of John F. Kennedy?
+glg	Banco de dados
 
-eng	Who is the mayor of Berlin?
+glg	Banco de dados
 
-eng	How many students does the Free University in Amsterdam have?
+spa	Banco de dados biológico
 
-eng	What is the second highest mountain on Earth?
+vol	Planeta
 
-eng	Give me all professional skateboarders from Sweden.
+vol	Planeta
 
-eng	When was Alberta admitted as province?
+plt	abadia
 
-eng	To which countries does the Himalayan mountain system extend?
+war	aeroporto
 
-eng	Give me a list of all trumpet players that were bandleaders.
+por	afiliacao europeia
 
-eng	What is the total amount of men and women serving in the FDNY?
+glg	afiliacao internacional
 
-eng	Who is the Formula 1 race driver with the most races?
+glg	afiliacao nacional
 
-eng	Give me all world heritage sites designated within the past five years.
+por	ala jovem
 
-eng	Who is the youngest player in the Premier League?
+lat	altitude (μ)
 
-eng	Give me all members of Prodigy.
+lvs	altura (cm)
 
-eng	What is the longest river?
+lvs	altura (mm)
 
-eng	Does the new Battlestar Galactica series have more episodes than the old one?
+lvs	altura (mm)
 
-eng	Give me all cars that are produced in Germany.
+lvs	altura (mm)
 
-eng	Give me all people that were born in Vienna and died in Berlin.
+lvs	altura (mm)
 
-eng	How tall is Michael Jordan?
+lvs	altura (mm)
 
-eng	What is the capital of Canada?
+lvs	altura (mm)
 
-eng	Who is the governor of Texas?
+lvs	altura (mm)
 
-eng	Do Harry and William, Princes of Wales, have the same mother?
+lat	altura (μ)
 
-eng	Who was the father of Queen Elizabeth II?
+epo	analfabetismo
 
-eng	Which U.S. state has been admitted latest?
+sun	anfíbio
 
-eng	How many official languages are spoken on the Seychelles?
+plt	animal
 
-eng	Sean Parnell is the governor of which U.S. state?
+plt	ano
 
-eng	Give me all movies directed by Francis Ford Coppola.
+glg	aracnídeos
 
-eng	Give me all actors starring in movies directed by and starring William Shatner.
+mri	arena
 
-eng	What is the birth name of Angela Merkel?
+fra	arquipélago
 
-eng	Give me all current Methodist national leaders.
+min	artista musical
 
-eng	How often did Nicole Kidman marry?
+por	asteróide
 
-eng	Give me all Australian nonprofit organizations.
+min	astronauta
 
-eng	In which military conflicts did Lawrence of Arabia participate?
+por	atividade
 
-eng	Who developed Skype?
+mri	ator
 
-eng	What is the melting point of copper?
+lat	ator adulto
 
-eng	Give me all sister cities of Brno.
+lat	automovel
 
-eng	How many inhabitants does Maribor have?
+min	banco
 
-eng	Give me all companies in Munich.
+min	banda
 
-fry	List all boardgames by GMT.
+glg	baía
 
-eng	Who founded Intel?
+glg	boxeador
 
-eng	Who is the husband of Amanda Palmer?
+por	cadeia montanhosa
 
-eng	Give me all breeds of the German Shepherd dog.
+por	campeonato de futebol
 
-eng	Which cities does the Weser flow through?
+min	canal
 
-eng	Which countries are connected by the Rhine?
+vol	capital
 
-eng	Which professional surfers were born on the Philippines?
+cmn	cardeal
 
-eng	What is the average temperature on Hawaii?
+por	caso jurídico
 
-eng	In which UK city are the headquarters of the MI6?
+ita	categoria do coeficiente de Gini
 
-eng	Which other weapons did the designer of the Uzi develop?
+lat	caverna
 
-eng	Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?
+war	chanceler
 
-eng	Give me all Frisian islands that belong to the Netherlands.
+glg	cicadácea
 
-eng	Who invented the zipper?
+min	ciclista
 
-eng	What is the ruling party in Lisbon?
+glg	cidade
 
-eng	What are the nicknames of San Francisco?
+min	clima
 
-eng	Which Greek goddesses dwelt on Mount Olympus?
+lat	coeficiente de Gini
 
-eng	When were the Hells Angels founded?
+lat	coeficiente de Gini em
 
-eng	Give me the Apollo 14 astronauts.
+lat	comediante
 
-eng	What is the time zone of Salt Lake City?
+min	comida
 
-eng	Which U.S. states are in the same timezone as Utah?
+glg	composto químico
 
-eng	Give me a list of all lakes in Denmark.
+cmn	cor
 
-eng	How many space missions have there been?
+min	cor da pele
 
-eng	Did Socrates influence Aristotle?
+por	cor do cabelo
 
-eng	Give me all Argentine films.
+por	cor dos olhos
 
-eng	Give me all launch pads operated by NASA.
+min	cratera
 
-eng	Which instruments did John Lennon play?
+min	cratera lunar
 
-eng	Which ships were called after Benjamin Franklin?
+lat	criminoso
 
-eng	Who are the parents of the wife of Juan Carlos I?
+fra	critério
 
-eng	How many employees does Google have?
+ast	curso d’água
 
-eng	Did Tesla win a nobel prize in physics?
+spa	código FDA UNII
 
-eng	Is Michelle Obama the wife of Barack Obama?
+por	código no afdb
 
-eng	When was the Statue of Liberty built?
+por	código no bgafd
 
-eng	In which U.S. state is Area 51 located?
+spa	código no egafd
 
-eng	How many children did Benjamin Franklin have?
+glg	código no eurobabeindex
 
-eng	When did Michael Jackson die?
+por	código no iafd
 
-eng	Which daughters of British earls died in the same place they were born in?
+por	código postal
 
-eng	List the children of Margaret Thatcher.
+por	data de entrada na uniao europeia
 
-eng	Who was called Scarface?
+por	data do casamento dos pais
 
-eng	Was Margaret Thatcher a chemist?
+min	data do titulo
 
-deu	Was Dutch Schultz a jew?
+vol	densidade (μ3)
 
-eng	Give me all books by William Goldman with more than 300 pages.
+vol	densidade (μ3)
 
-eng	Which books by Kerouac were published by Viking Press?
+vol	densidade (μ3)
 
-eng	Give me a list of all American inventions.
+vol	densidade (μ3)
 
-eng	How high is the Mount Everest?
+min	descobridor
 
-eng	Who created the comic Captain America?
+min	deserto
 
-eng	How many people live in the capital of Australia?
+glg	desfiladeiro
 
-eng	What is the largest city in Australia?
+ita	dispositivo
 
-eng	Who composed the music for Harold and Maude?
+min	distrito
 
-eng	Which films starring Clint Eastwood did he direct himself?
+por	distância até a capital (μ)
 
-eng	In which city was the former Dutch queen Juliana buried?
+glg	domínio de topo (tld)
 
-eng	Where is the residence of the prime minister of Spain?
+por	em perigo desde
 
-eng	Which U.S. State has the abbreviation MN?
+epo	empresa
 
-eng	Show me all songs from Bruce Springsteen released between 1980 and 1990.
+min	escola
 
-eng	Which movies did Sam Raimi direct after Army of Darkness?
+plt	escola de samba
 
-eng	What is the founding year of the brewery that produces Pilsner Urquell?
+epo	esporte
 
-eng	Who wrote the lyrics for the Polish national anthem?
+por	estação
 
-eng	Give me all B-sides of the Ramones. 
+epo	evento
 
-eng	Who painted The Storm on the Sea of Galilee?
+epo	evento
 
-eng	Which country does the creator of Miffy come from?
+ita	evento anterior
 
-eng	For which label did Elvis record his first album?
+epo	evento esportivo
 
-eng	Who produces Orangina?
+ron	expectativa de vida
+
+por	extensão d’água
+
+por	faculdade
+
+eus	figura
+
+epo	fonte termal
+
+eus	fuso horario
+
+glg	galáxia
+
+nno	geleira
+
+min	gene
+
+afr	ginkgo
+
+glg	grupo parlamentar europeu
+
+spa	género musical
+
+por	habilidade com a mao
+
+por	habilidade com o pé
+
+mri	hino
+
+min	hospital
+
+min	ideologia
+
+min	ideologia
+
+epo	igreja
+
+oci	ilha
+
+por	indicadores demograficos em
+
+glg	indicativo de chamada
+
+por	jogador de badminton
+
+por	jogador de basebol
+
+por	jogador de futebol canadense
+
+min	jogador de tennis
+
+min	jogo
+
+min	lago
+
+eus	legenda
+
+vol	lema
+
+min	lider
+
+por	liga de futebol americano
+
+epo	liga de futebol australiano
+
+epo	liga de golfe
+
+por	ligamento
+
+por	linguagem de programação
+
+por	localização
+
+por	logiciário
+
+lvs	lugar
+
+tgl	lugar natural
+
+cat	língua
+
+por	maior ilha
+
+glg	mamífero
+
+mri	mapa
+
+plt	mar
+
+war	marcha
+
+war	mascote
+
+por	medalha de bronze
+
+por	medalha de ouro
+
+por	medalha de prata
+
+min	medalhista
+
+min	medidas
+
+epo	membro do parlamento
+
+min	microrregiao
+
+min	ministerio do politico
+
+afr	moeda
+
+vol	montanha
+
+por	mortalidade infantil
+
+mri	motor
+
+spa	motor de automóvel
+
+spa	municipío adjacente
+
+min	museu
+
+spa	nacionalidade
+
+por	nadador
+
+plt	nome
+
+por	numero de deputados distritais
+
+por	numero de deputados estaduais
+
+por	numero de deputados federais
+
+epo	numero de membros em
+
+lat	numero de ministerios
+
+lat	numero de municipios
+
+por	número da sessão
+
+glg	número de condados
+
+glg	número de membros
+
+glg	número de participantes
+
+glg	número de países
+
+min	número do partido
+
+min	número do sapato
+
+min	número do sapato
+
+min	obra
+
+min	oceano
+
+por	organização
+
+por	orientação sexual
+
+min	origem
+
+por	origens estilísticas
+
+por	osso
+
+por	parque
+
+min	partido do lider
+
+min	partido do vicelider
+
+glg	partido político
+
+eus	patente
+
+glg	patinador artístico
+
+plt	patrono
+
+glg	país
+
+por	país de localização
+
+glg	peixe
+
+por	personagem de quadrinhos
+
+min	peso (g)
+
+cmn	peso (kg)
+
+cmn	peso (kg)
+
+cmn	peso (kg)
+
+cmn	peso (kg)
+
+cmn	peso (kg)
+
+cmn	peso (kg)
+
+cmn	peso (kg)
+
+cmn	peso (kg)
+
+por	pessoa
+
+war	piercing
+
+glg	político
+
+plt	ponte
+
+por	população total
+
+epo	porta-voz
+
+por	posição no ranking do coeficiente de Gini
+
+por	posição no ranking do total da populacao
+
+min	praia
+
+epo	presidente
+
+ita	produto interno bruto em
+
+glg	proteína
+
+glg	referencia do total da populacao
+
+por	religião
+
+vol	renda per capita ($)
+
+vol	renda per capita em
+
+min	rio
+
+min	samambaia
+
+plt	santo
+
+lat	secretario
+
+vol	senador
+
+war	shopping
+
+spa	signo astrológico
+
+por	substância química
+
+min	tatuagem
+
+lat	tem busto natural
+
+nob	tenente
+
+oci	time de basquete
+
+ita	tipo de governo
+
+glg	tipo sanguíneo
+
+vol	treinador
+
+ekk	unidade militar
+
+glg	universidade
+
+vol	vale
+
+nno	veia
+
+min	vicelider
+
+epo	videojogo
+
+ron	vulcão
+
+por	Índice de Desenvolvimento Humano (IDH)
+
+por	Índice de desenvolvimento humano em
+
+spa	álbum
+
+ekk	área (km2)
+
+glg	área (m2)
+
+vol	A Novela das 8
 
