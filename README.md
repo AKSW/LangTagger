@@ -129,6 +129,18 @@ and French language for the test.
     <td >0.39</td><td >0.95</td>
     <td >0.41</td><td >0.73</td>
   </tr>
+    <tr>
+	<td ><b>openNLP(12)</b></td>
+	<td >0.98</td>
+    <td >0.98</td>
+    <td >0.70</td><td >0.96</td>
+    <td >0.76</td><td >0.95</td>
+    <td >0.76</td><td >0.94</td>
+    <td >0.75</td><td >0.93</td>
+    <td >0.83</td><td >0.97</td>
+    <td >0.56</td><td >1.00</td>
+    <td >0.81</td><td >0.95</td>
+  </tr>
   </tbody>
 </table>
 
