@@ -386,7 +386,6 @@ and French language for the test.
     <td ><b>K</b></td><td ><b>F</b></td>
     <td ><b>K</b></td><td ><b>F</b></td>
     <td ><b>K</b></td><td ><b>F</b></td>
-    <td ><b>K</b></td><td ><b>F</b></td>
    </tr>
   </thead>>
   <tbody>
