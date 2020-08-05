@@ -376,7 +376,6 @@ and French language for the test.
     <th colspan="2">5</th>
     <th colspan="2">6</th>
     <th colspan="2">7</th>
-    <th colspan="2">8</th>
     <th colspan="2">9</th>
   </tr>
   <tr >
@@ -628,7 +627,6 @@ and French language for the test.
     <td >0.99</td>
     <td >0.95</td>
     <td >0.99</td>
-    <td >0.98</td>
     <td >0.98</td>
     <td >0.99</td>
     <td >0.97</td><td >0.43918</td>
