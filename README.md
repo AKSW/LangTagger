@@ -248,6 +248,30 @@ and French language for the test.
     <td >0.39</td><td >0.95</td>
     <td >0.58</td><td >0.93</td>
   </tr>
+  <tr>
+	<td ><b>openNLP(12)</b></td>
+	<td >0.98</td>
+    <td >0.98</td>
+    <td >0.70</td><td >0.98</td>
+    <td >0.82</td><td >0.96</td>
+    <td >0.82</td><td >0.98</td>
+    <td >0.83</td><td >0.98</td>
+    <td >1.00</td><td >0.79</td>
+    <td >1.00</td><td >0.56</td>
+    <td >0.80</td><td >0.98</td>
+  </tr>
+   <tr>
+	<td ><b>langdetect(12)</b></td>
+	<td >0.98</td>
+    <td >0.93</td>
+    <td >0.55</td><td >0.93</td>
+    <td >0.72</td><td >0.90</td>
+    <td >0.69</td><td >0.98</td>
+    <td >0.72</td><td >0.96</td>
+    <td >0.74</td><td >0.88</td>
+    <td >0.56</td><td >1.00</td>
+    <td >0.66</td><td >0.93</td>
+  </tr>
   </tbody>
 </table>
 
@@ -319,6 +343,24 @@ and French language for the test.
     <td >0.39</td><td >0.74</td>
     <td >0.48</td><td >0.79</td>
     <td >0.48</td><td >0.82</td>
+  </tr>
+    <tr>
+	<td ><b>openNLP(12)</b></td>
+    <td >0.68</td><td >0.92</td>
+    <td >0.70</td><td >0.84</td>
+    <td >0.77</td><td >0.85</td>
+    <td >0.54</td><td >0.80</td>
+    <td >0.76</td><td >0.93</td>
+    <td >0.72</td><td >0.92</td>
+  </tr>
+  <tr>
+	<td ><b>langdetect(12)</b></td>
+    <td >0.80</td><td >0.95</td>
+    <td >0.78</td><td >0.90</td>
+    <td >0.83</td><td >0.93</td>
+    <td >0.75</td><td >0.85</td>
+    <td >0.76</td><td >0.90</td>
+    <td >0.81</td><td >0.94</td>
   </tr>
   </tbody>
 </table>
@@ -393,6 +435,24 @@ and French language for the test.
     <td >0.59</td><td >0.82</td>
     <td >0.65</td><td >0.90</td>
     <td >0.62</td><td >0.82</td>
+  </tr>
+  <tr>
+	<td ><b>openNLP(12)</b></td>
+    <td >0.70</td><td >0.94</td>
+    <td >0.76</td><td >0.96</td>
+    <td >0.68</td><td >0.96</td>
+    <td >0.68</td><td >0.90</td>
+    <td >0.93</td><td >0.97</td>
+    <td >0.78</td><td >0.91</td>
+  </tr>
+   <tr>
+	<td ><b>langdetect(12)</b></td>
+    <td >0.73</td><td >0.88</td>
+    <td >0.76</td><td >0.98</td>
+    <td >0.68</td><td >0.93</td>
+    <td >0.66</td><td >0.91</td>
+    <td >0.83</td><td >0.95</td>
+    <td >0.76</td><td >0.92</td>
   </tr>
   </tbody>
 </table>
@@ -480,6 +540,28 @@ and French language for the test.
     <td >0.25</td>
     <td >0.21</td><td >0.01125</td>
   </tr>
+  <tr>
+    <td ><b>openNLP(12)</b></td>
+    <td >0.75</td>
+    <td >0.37</td>
+    <td >0.98</td>
+    <td >0.80</td>
+    <td >0.37</td>
+    <td >0.59</td>
+    <td >0.52</td>
+    <td >0.62</td><td >0.05361</td>
+  </tr>
+   <tr>
+    <td ><b>langdetect(12)</b></td>
+    <td >0.35</td>
+    <td >0.51</td>
+    <td >0.59</td>
+    <td >0.67</td>
+    <td >0.32</td>
+    <td >0.59</td>
+    <td >0.43</td>
+    <td >0.49</td><td >0.03611</td>
+  </tr>
   </tbody>
 </table>
 
@@ -560,6 +642,26 @@ and French language for the test.
     <td >0.78</td>
     <td >0.71</td>
     <td >0.66</td><td >0.01427</td>
+  </tr>
+  <tr>
+    <td ><b>openNLP(12)</b></td>
+    <td >0.95</td>
+    <td >0.98</td>
+    <td >0.98</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.98</td><td >0.18625</td>
+  </tr>
+  <tr>
+    <td ><b>langdetect(12)</b></td>
+    <td >0.95</td>
+    <td >0.99</td>
+    <td >0.95</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.99</td>
+    <td >0.97</td><td >0.02183</td>
   </tr>
   </tbody>
 </table>
