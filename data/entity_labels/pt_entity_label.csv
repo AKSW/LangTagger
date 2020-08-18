@@ -1,7 +1,9 @@
 questions,lang
 categoria do indice de desenvolvimento humano (IDH),pt
 Banco de dados,pt
+Banco de dados,pt
 Banco de dados biológico,pt
+Planeta,pt
 Planeta,pt
 abadia,pt
 aeroporto,pt
@@ -11,6 +13,12 @@ afiliacao nacional,pt
 ala jovem,pt
 altitude (μ),pt
 altura (cm),pt
+altura (mm),pt
+altura (mm),pt
+altura (mm),pt
+altura (mm),pt
+altura (mm),pt
+altura (mm),pt
 altura (mm),pt
 altura (μ),pt
 analfabetismo,pt
@@ -69,6 +77,9 @@ data de entrada na uniao europeia,pt
 data do casamento dos pais,pt
 data do titulo,pt
 densidade (μ3),pt
+densidade (μ3),pt
+densidade (μ3),pt
+densidade (μ3),pt
 descobridor,pt
 deserto,pt
 desfiladeiro,pt
@@ -82,6 +93,7 @@ escola,pt
 escola de samba,pt
 esporte,pt
 estação,pt
+evento,pt
 evento,pt
 evento anterior,pt
 evento esportivo,pt
@@ -101,6 +113,7 @@ habilidade com a mao,pt
 habilidade com o pé,pt
 hino,pt
 hospital,pt
+ideologia,pt
 ideologia,pt
 igreja,pt
 ilha,pt
@@ -162,6 +175,7 @@ número de participantes,pt
 número de países,pt
 número do partido,pt
 número do sapato,pt
+número do sapato,pt
 obra,pt
 oceano,pt
 organização,pt
@@ -181,6 +195,13 @@ país de localização,pt
 peixe,pt
 personagem de quadrinhos,pt
 peso (g),pt
+peso (kg),pt
+peso (kg),pt
+peso (kg),pt
+peso (kg),pt
+peso (kg),pt
+peso (kg),pt
+peso (kg),pt
 peso (kg),pt
 pessoa,pt
 piercing,pt
