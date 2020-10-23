@@ -17,7 +17,7 @@ by the DBpedia SPARQL endpoint if possible, excluding resources containing digit
 to measure the efficiency of the different approaches on identifying a label language. We used English,
 German, Russian, Italian, Spanish, French and Portuguese language for the test. 
 
-Moderate: The  moderate  text  benchmark  uses  all  questions  in  the  QuestionOver Linked Data 
+QA: The  QA  benchmark  uses  all  questions  in  the  QuestionOver Linked Data 
 (QALD) datasets in different forms, Keywords (K) and FullQuestions (F). It is designed to evaluate 
 the efficiency of the different approaches in the Question and Answering (QA) domain. The efficiency 
 of the models areassessed on detecting the language of a question containing a knowledge base resource.
