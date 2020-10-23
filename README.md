@@ -10,7 +10,7 @@ and Russian.
 
 ## Benchmarks
 To assess the efficiency of the different models and frameworks, we desgined threedifferent text length and domain 
-benchmarks (1) Short texts (rdf:labels), (2) QA and (3)Long texts (dbo:abstracts).
+benchmarks (1) Short texts (rdfs:labels), (2) QA and (3)Long texts (dbo:abstracts).
 
 Short: The short text benchmark uses the first10.000 entityrdfs:labelsofeach language returned 
 by the DBpedia SPARQL endpoint if possible, excluding resources containing digits. It is designed
