@@ -155,6 +155,19 @@ and French language for the test.
     <td >0.58</td><td >1.00</td>
     <td >0.66</td><td >0.82</td>
   </tr>
+
+<tr>
+	<td ><b>langid</b></td>
+	<td >0.98</td>
+    <td >0.94</td>
+    <td >0.62</td><td >0.93</td>
+    <td >0.72</td><td >0.94</td>
+    <td >0.64</td><td >0.95</td>
+    <td >0.68</td><td >0.91</td>
+    <td >0.64</td><td >0.93</td>
+    <td >0.65</td><td >1.00</td>
+    <td >0.64</td><td >0.82</td>
+  </tr>
   </tbody>
 </table>
 
@@ -273,6 +286,19 @@ and French language for the test.
     <td >0.56</td><td >1.00</td>
     <td >0.66</td><td >0.93</td>
   </tr>
+
+   <tr>
+	<td ><b>langid</b></td>
+	<td >0.98</td>
+    <td >0.94</td>
+    <td >0.52</td><td >0.94</td>
+    <td >0.60</td><td >0.96</td>
+    <td >0.61</td><td >0.96</td>
+    <td >0.67</td><td >0.94</td>
+    <td >0.55</td><td >0.95</td>
+    <td >0.65</td><td >1.00</td>
+    <td >0.59</td><td >0.94</td>
+  </tr>
   </tbody>
 </table>
 
@@ -363,6 +389,15 @@ and French language for the test.
     <td >0.76</td><td >0.90</td>
     <td >0.81</td><td >0.94</td>
   </tr>
+<tr>
+	<td ><b>langid</b></td>
+    <td >0.70</td><td >0.93</td>
+    <td >0.82</td><td >0.94</td>
+    <td >0.75</td><td >0.95</td>
+    <td >0.71</td><td >0.92</td>
+    <td >0.67</td><td >0.90</td>
+    <td >0.78</td><td >0.94</td>
+  </tr>
   </tbody>
 </table>
 
@@ -452,6 +487,15 @@ and French language for the test.
     <td >0.66</td><td >0.91</td>
     <td >0.83</td><td >0.95</td>
     <td >0.76</td><td >0.92</td>
+  </tr>
+   <tr>
+	<td ><b>langid</b></td>
+    <td >0.75</td><td >0.96</td>
+    <td >0.88</td><td >0.96</td>
+    <td >0.75</td><td >1.00</td>
+    <td >0.78</td><td >0.94</td>
+    <td >0.79</td><td >0.97</td>
+    <td >0.84</td><td >0.92</td>
   </tr>
   </tbody>
 </table>
@@ -561,6 +605,18 @@ and French language for the test.
     <td >0.43</td>
     <td >0.49</td><td >0.03611</td>
   </tr>
+
+   <tr>
+    <td ><b>langid</b></td>
+    <td >0.69</td>
+    <td >0.33</td>
+    <td >0.56</td>
+    <td >0.44</td>
+    <td >0.33</td>
+    <td >0.57</td>
+    <td >0.28</td>
+    <td >0.45</td><td >0.01651</td>
+  </tr>
   </tbody>
 </table>
 
@@ -660,6 +716,16 @@ and French language for the test.
     <td >0.99</td>
     <td >0.99</td>
     <td >0.97</td><td >0.02183</td>
+  </tr>
+  <tr>
+    <td ><b>langid</b></td>
+    <td >0.96</td>
+    <td >0.97</td>
+    <td >0.94</td>
+    <td >0.99</td>
+    <td >0.98</td>
+    <td >0.99</td>
+    <td >0.97</td><td >0.03579</td>
   </tr>
   </tbody>
 </table>
@@ -780,6 +846,11 @@ and French language for the test.
     <td ><b>openNLP</b></td>
     <td >10.6 MB</td>
     <td >103</td>
+  </tr>
+<tr>
+    <td ><b>langid</b></td>
+    <td >1.9 MB</td>
+    <td >97</td>
   </tr>
   </tbody>
 </table>
